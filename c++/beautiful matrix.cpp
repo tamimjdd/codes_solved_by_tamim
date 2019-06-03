@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int i,j,A[6][6],c=0,a,b;
+for(i=0;i<5;i++){
+    for(j=0;j<5;j++){
+        cin>>A[i][j];
+        if(A[i][j]==1){
+            a=i;
+            b=j;
+        }
+    }
+}
+if(a!=2){
+if(a<2){
+    do{
+        a++;
+        c++;
+    }while(a!=2);
+}
+else{
+    do{
+        a--;
+        c++;
+    }while(a!=2);
+}
+}
+if(b!=2){
+if(b<2){
+    do{
+        b++;
+        c++;
+    }while(b!=2);
+}
+else{
+    do{
+        b--;
+        c++;
+    }while(b!=2);
+}
+}
+cout<<c;
+}
