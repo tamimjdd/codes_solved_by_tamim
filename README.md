@@ -1,18 +1,17 @@
-### Hi there, I'm Tamim wasif - aka Tamim 👋
+# ProblemSolvingStats
 
-## I'm a student, learner, coder!
-- 🔭 I’m currently studing at North Western University Bangladesh!
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Code
 
-### Connect with me:
+| OJ | Username | Solve Count |
+| -- | -------- | ----------- |
+| Codeforces | [tamimwasif](https://codeforces.com/profile/tamimwasif) | 306 |
+| CodeChef | [tamimjd](https://www.codechef.com/users/tamimjd) | 173 |
+| SPOJ | [tamimjdd](https://www.spoj.com/users/tamimjdd/) | 6 | 
+| LightOJ | [tamimjd](https://lightoj.com/user/deviltamim88) | 7 | 
+| Toph | [tamimjd](https://toph.co/u/tamimwasif) | 12 |
+| UVA | [tamimjd](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3) | 4 |
+| Vjudge | [tamimjdd](https://vjudge.net/user/tamimjdd) | 216 |
+| HackerEarth | [tamimwasif](https://www.hackerearth.com/@tamim4) | 8 |
+| HackerRank | [deviltamim88](https://www.hackerrank.com/deviltamim88) | 79 |
+| Total | | 811 |
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tamimjdd/html.gitub.io/master/index2.html)
-[<img align="left" alt="Tamim_wasif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCEX3BfAnJMi0mmpQI60UIDA?view_as=subscriber)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WasifTamim)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tamim-wasif-72b453158/)
-
-<br />
-
+Last Updated: 5 Dec, 2021
